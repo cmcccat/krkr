@@ -1,0 +1,34 @@
+[controller]
+left=25
+top=25
+stayontop=0
+
+[console]
+autoshowonerror=0
+left=318
+top=65
+width=885
+height=499
+exprhist=20:51:57 load.ks : [eval exp=f.x=15 f.y=150]@-@*@-@*
+stayontop=0
+font=pEpPpPpPaAaAaAaAaAaAaAaAaAaAaAaAjAaBaAaAaAaAaAiGaAaAaAaAmLmOmMoFaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaA
+
+[script editor]
+left=50
+top=50
+width=538
+height=352
+content=
+stayontop=0
+
+[watch]
+left=275
+top=190
+width=366
+height=232
+col0width=140
+col1width=400
+stayontop=0
+exprlist=f.x@-@*f.y@-@*f.tx1@-@*void@-@*f.name3@-@*
+interval=1000
+
